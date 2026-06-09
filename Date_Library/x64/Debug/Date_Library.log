@@ -1,0 +1,20 @@
+﻿  Date_Library.cpp
+C:\Users\USER\source\repos\Date_Library\Date_Library\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Date_Library.cpp')
+  
+C:\Users\USER\source\repos\Date_Library\Date_Library\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Date_Library.cpp')
+  
+C:\Users\USER\source\repos\Date_Library\Date_Library\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Date_Library.cpp')
+  
+C:\Users\USER\source\repos\Date_Library\Date_Library\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Date_Library.cpp')
+  
+C:\Users\USER\source\repos\Date_Library\Date_Library\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Date_Library.cpp')
+  
+C:\Users\USER\source\repos\Date_Library\Date_Library\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'Date_Library.cpp')
+  
+  Date_Library.vcxproj -> C:\Users\USER\source\repos\Date_Library\x64\Debug\Date_Library.exe
